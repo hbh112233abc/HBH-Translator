@@ -1,0 +1,19 @@
+{
+    "schema_version": "1.0",
+    "packages": [
+    {
+        "name": "HBH-Translator",
+        "description": "Sublime Text3 translator,show translate result at status bar.",
+        "author": "huangbinghe",
+        "homepage": "https://github.com/hbh112233abc/HBH-Translator",
+        "last_modified": "2019-02-18 13:11:00",
+        "platforms":
+        {
+            "*": [
+            {
+                "version": "1.0.0",
+                "url": "https://nodeload.github.com/hbh112233abc/HBH-Translator/zip/master"
+            }]
+        }
+    }]
+}
