@@ -1,6 +1,7 @@
 {
-    "version":"1.0.0",
+    "version":"1.0.3",
     "appid":"20190214000266737",
     "secret_key":"Nf7QSdPjC1Zf_VHSo_r9",
-    "default_to_lang":"zh"
+    "default_to_lang":"zh",
+    "save_result_in_clipboard":true
 }

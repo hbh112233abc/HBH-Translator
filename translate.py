@@ -28,4 +28,5 @@ class TranslateCommand(sublime_plugin.TextCommand):
         else:
             bd_api.to_lang = s.get('default_to_lang', 'zh')
         dst = bd_api.query(sels_str)
+        sublime.set_clipboard(dst)
         sublime.status_message('Translate result:{}'.format(dst))
