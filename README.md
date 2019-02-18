@@ -13,4 +13,5 @@
 2. `Ctrl+Down` translate selected string to chinese;`Ctrl+Up` translate selected string to english;
 3. show translate result at status bar
 
-
+## TODO
+add another translate driver
