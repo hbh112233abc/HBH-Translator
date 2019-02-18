@@ -1,0 +1,20 @@
+[
+    {
+        "keys": [
+            "ctrl+down"
+        ],
+        "args": {
+            "to_lang": "zh"
+        },
+        "command": "translate"
+    },
+    {
+        "keys": [
+            "ctrl+up"
+        ],
+        "args": {
+            "to_lang": "en"
+        },
+        "command": "translate"
+    }
+]
