@@ -47,14 +47,14 @@
                                 "caption": "-"
                             },
                             {
-                                "caption": "百度翻译->cn",
+                                "caption": "translate->cn",
                                 "args": {
                                     "to_lang": "zh"
                                 },
                                 "command": "translate"
                             },
                             {
-                                "caption": "百度翻译->en",
+                                "caption": "translate->en",
                                 "args": {
                                     "to_lang": "en"
                                 },
