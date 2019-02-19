@@ -1,0 +1,22 @@
+[
+    { "caption": "-", "id": "file" },
+    {
+        "caption": "HBH-Translator",
+        "children": [
+            {
+                "caption":"Translate to chinese",
+                "command":"translate",
+                "args":{
+                    "to_lang":"zh"
+                }
+            },
+            {
+                "caption":"Translate to english",
+                "command":"translate",
+                "args":{
+                    "to_lang":"en"
+                }
+            }
+        ]
+    }
+]
