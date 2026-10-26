@@ -3,10 +3,10 @@
     "version":"1.0.3",
 
     //baidu api appid
-    "appid":"20190214000266737",
+    "appid":"<YOUR BAIDU APPID>",
 
     //baidu api secret key
-    "secret_key":"Nf7QSdPjC1Zf_VHSo_r9",
+    "secret_key":"<YOUR BAIDU APPSECRET>",
 
     //default translate to language
     "default_to_lang":"zh",
