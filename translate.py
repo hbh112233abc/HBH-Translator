@@ -5,7 +5,7 @@ from .driver.baidu_translate import BaiduTranslate
 s = sublime.load_settings("HBH-Translator.sublime-settings")
 appid = s.get('appid')
 secret_key = s.get('secret_key')
-print(appid, secret_key)
+
 bd_api = BaiduTranslate(appid, secret_key)
 
 
